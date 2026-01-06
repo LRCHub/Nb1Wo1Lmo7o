@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Lowkey",
+  "base_artist": "DJ KANJI",
+  "createdAt": "2026-01-06T03:47:56.070232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Watch No Face (feat. Lowkey)",
+      "artist": "Rv feat. Headie One & Lowkey",
+      "has_synced": false,
+      "path": "select/01_Watch_No_Face_(feat._Lowkey)_Rv_feat._Headie_One_&_Lowkey.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Watch No Face (feat. Lowkey)",
+      "artist": "RV & Headie One",
+      "has_synced": false,
+      "path": "select/02_Watch_No_Face_(feat._Lowkey)_RV_&_Headie_One.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LowKey (feat. Jayd Ink)",
+      "artist": "Full Crate feat. Jayd Ink",
+      "has_synced": true,
+      "path": "select/03_LowKey_(feat._Jayd_Ink)_Full_Crate_feat._Jayd_Ink.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lowkey (feat. Erykah Badu)",
+      "artist": "Teyana Taylor feat. Erykah Badu",
+      "has_synced": true,
+      "path": "select/04_Lowkey_(feat._Erykah_Badu)_Teyana_Taylor_feat._Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lowkey",
+      "artist": "Teyana Taylor, Erykah Badu",
+      "has_synced": true,
+      "path": "select/05_Lowkey_Teyana_Taylor,_Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lowkey As Hell",
+      "artist": "Waterparks",
+      "has_synced": true,
+      "path": "select/06_Lowkey_As_Hell_Waterparks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lowkey",
+      "artist": "Erykah Badu/Teyana Taylor",
+      "has_synced": true,
+      "path": "select/07_Lowkey_Erykah_Badu_Teyana_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "lowkey",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/08_lowkey_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lowkey",
+      "artist": "blackwave.",
+      "has_synced": true,
+      "path": "select/09_Lowkey_blackwave..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "lowkey (Live at The Wiltern)",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/10_lowkey_(Live_at_The_Wiltern)_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lowkey",
+      "artist": "Sleepy Hallow",
+      "has_synced": true,
+      "path": "select/11_Lowkey_Sleepy_Hallow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOWKEY",
+      "artist": "Seddy Hendrinx",
+      "has_synced": false,
+      "path": "select/12_LOWKEY_Seddy_Hendrinx.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lowkey",
+      "artist": "Seddy Hendrix",
+      "has_synced": false,
+      "path": "select/13_Lowkey_Seddy_Hendrix.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LOWKEY",
+      "artist": "HEN$HAW",
+      "has_synced": true,
+      "path": "select/14_LOWKEY_HEN$HAW.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lowkey Lovesong (feat. Iman Europe)",
+      "artist": "Rexx Life Raj feat. Iman Europe",
+      "has_synced": false,
+      "path": "select/15_Lowkey_Lovesong_(feat._Iman_Europe)_Rexx_Life_Raj_feat._Iman_Europe.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lowkey Lovesong",
+      "artist": "Rexx Life Raj Ft. Iman Europe",
+      "has_synced": false,
+      "path": "select/16_Lowkey_Lovesong_Rexx_Life_Raj_Ft._Iman_Europe.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lowkey",
+      "artist": "Xenia Manasseh",
+      "has_synced": true,
+      "path": "select/17_Lowkey_Xenia_Manasseh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lowkey (feat. MALIYA, 3House & IO)",
+      "artist": "DJ KANJI",
+      "has_synced": false,
+      "path": "select/pl_01_Lowkey_(feat._MALIYA,_3House_&_IO)_DJ_KANJI.txt"
+    }
+  ]
+}
